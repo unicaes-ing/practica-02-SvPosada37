@@ -1,0 +1,11 @@
+C:\Users\humbe\source\repos\Guia2\bin\Debug\netcoreapp2.1\Guia2.deps.json
+C:\Users\humbe\source\repos\Guia2\bin\Debug\netcoreapp2.1\Guia2.runtimeconfig.json
+C:\Users\humbe\source\repos\Guia2\bin\Debug\netcoreapp2.1\Guia2.runtimeconfig.dev.json
+C:\Users\humbe\source\repos\Guia2\bin\Debug\netcoreapp2.1\Guia2.dll
+C:\Users\humbe\source\repos\Guia2\bin\Debug\netcoreapp2.1\Guia2.pdb
+C:\Users\humbe\source\repos\Guia2\obj\Debug\netcoreapp2.1\Guia2.csprojAssemblyReference.cache
+C:\Users\humbe\source\repos\Guia2\obj\Debug\netcoreapp2.1\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\Guia2\obj\Debug\netcoreapp2.1\Guia2.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\Guia2\obj\Debug\netcoreapp2.1\Guia2.AssemblyInfo.cs
+C:\Users\humbe\source\repos\Guia2\obj\Debug\netcoreapp2.1\Guia2.dll
+C:\Users\humbe\source\repos\Guia2\obj\Debug\netcoreapp2.1\Guia2.pdb
